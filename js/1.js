@@ -81,7 +81,7 @@ var TextScramble = function () {
 // Example
 // ——————————————————————————————————————————————————
 
-var phrases = [' Cat  Soup ', ' Drip - 133 ', ' Drew The Architect ', 'Ghost//Ghoul', ' Rozz Dyliams ', 'Bones', ' Greaf ', '  team sesh   '];
+var phrases = [' Cat Soup ', ' Drip-133 ', ' Drew The Architect ', 'Ghost//Ghoul', ' Midnight Swim ', ' EL ', ' Rozz Dyliams ','Bones', ' Greaf ', ' HNRK ', ' Messiah ', '  Fifty Grand   '];
 
 var el = document.querySelector('.text');
 var fx = new TextScramble(el);
